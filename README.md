@@ -99,6 +99,23 @@ Double-click index.html or launch using VS Code Live Server extension.
 
 ---
 
+## 🗺 Detailed Strategic Business Expansion Roadmap (2025–2030+)
+
+To guarantee exponential growth, market capitalization, and operational synergy across Western, Central, and Eastern Indonesia, **PT. FAM Timur Indonesia** executes a multi-phase corporate expansion plan covering all six strategic pillars:
+
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                    PT. FAM TIMUR INDONESIA ROADMAP                          │
+├───────────────────┬───────────────────┬───────────────────┬─────────────────┤
+│    Phase 1        │    Phase 2        │    Phase 3        │    Phase 4      │
+│  Foundation &     │ Cross-Industry    │ Digital & Export  │ Capital Market  │
+│  Stabilization    │ Ecosystem Synergy │ Market Leadership │ & Global Scale  │
+│   (2025 - 2026)   │   (2026 - 2027)   │   (2028 - 2029)   │    (2030+)      │
+└───────────────────┴───────────────────┴───────────────────┴─────────────────┘
+```
+
+---
+
 ## 📞 Corporate Contact Information
 
 - **Address:** Jalan Dahlia Lorong 3, Sengkang, Kel. Pattirosompe, Kec. Tempe, Kab. Wajo, Sulawesi Selatan, 90913, Indonesia
