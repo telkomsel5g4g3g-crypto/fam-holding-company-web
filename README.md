@@ -92,7 +92,7 @@ No node modules or build processes are required. Any standard modern web browser
 git clone https://github.com/telkomsel5g4g3g-crypto/fam-holding-company-web.git
 
 ### Step 2: Navigate to the directory
-cd REPO_NAME
+cd fam-holding-company-web
 
 ### Step 3: Run the site
 Double-click index.html or launch using VS Code Live Server extension.
