@@ -31,50 +31,81 @@
 
 ---
 
----
-
 ## 📌 About The Project
 
-This repository hosts the official front-end source code for **PT. FAM Timur Indonesia**, a prominent holding company under **DA Group**. Operating as a multi-sector enterprise, the company actively drives sustainable growth and strategic operations across key business sectors in Indonesia:
+This repository hosts the official web front-end source code for **PT. FAM Timur Indonesia**, a premier holding company managing strategic enterprises under the **DA Group**. Guided by the motto *"New Spirit, Shared Hope"*, the company oversees a multi-sector portfolio driving sustainable economic growth across Western, Central, and Eastern Indonesia.
 
-- **Tobacco**
-- **Swiftlet Nest**
-- **Livestock**
-- **Food & Agriculture**
-- **Retail**
-- **Coal Mining**
-
-🔗 **Official Website:** [https://www.famholdingcompany.com/index.html](https://www.famholdingcompany.com/index.html)
+🌐 **Official Live Site:** [https://www.famholdingcompany.com/index.html](https://www.famholdingcompany.com/index.html)  
+💳 **SWIFT.COM Membership No:** 302329932
 
 ---
 
-## ✨ Key Features & UI Highlights
+## 🏢 Business Units (Our Six Pillars)
 
-- **Ultra-Premium Design System:** Built with an Emerald Green & Shimmering Gold aesthetic reflecting corporate prestige and luxury.
-- **Cinematic Experience:** Features subtle animated backgrounds, floating light shapes, glassmorphism UI elements, and custom scrollbars.
-- **Dynamic Trading Ticker:** Includes a live-style marquee component for tracking commodity, stock, or asset metrics.
-- **Interactive UI Elements:** Equipped with smooth-scroll navigation, responsive hamburger menu, and AOS (Animate On Scroll) visual triggers.
-- **SEO & Social Share Ready:** Fully optimized meta tags including Open Graph and Twitter Card integrations.
+PT. FAM Timur Indonesia operates 6 key business units spanning from food security to logistics and energy:
 
----
-
-## 🛠️ Tech Stack & Dependencies
-
-- **Structure:** [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) (Semantic Elements)
-- **Styling:** [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) (Modern Custom Properties & Flexbox/Grid Layouts)
-- **Icons:** [Font Awesome v6.5.1](https://fontawesome.com/)
-- **Typography:** [Google Fonts](https://fonts.google.com/) (*Plus Jakarta Sans* & *Playfair Display*)
-- **Animations:** [AOS Library v2.3.1](https://michalsnik.github.io/aos/)
+| Business Unit | Company / Brand Name | Sector Description |
+| :--- | :--- | :--- |
+| **🪹 Swiftlet Nest** | **DA Birdnest Indonesia** | Production, processing, and global distribution of high-quality swiftlet nests for local and export markets. |
+| **🌾 Food & Snacks** | **DA Food Indonesia** | Sustainable food processing and natural resource management to fulfill regional food needs. |
+| **🚬 Premium Cigarettes** | **PT. DA Royal Sigaret** | Processing and distributing tobacco products to foster market share and local community economy. |
+| **🛒 Retail & Wholesale** | **DA Mart Harapan Bersama** | Retail network providing quality daily necessities at accessible and competitive prices. |
+| **🥩 Livestock** | **PT. DA Marioni Jaya** | Integrated livestock operations producing meat, eggs, and milk from upstream to downstream. |
+| **⚓ Mining & Maritime** | **PT. HAN GROUP ABADI** | Professional stevedoring, coal transhipment, and maritime logistics services across Western and Southern Aceh. |
 
 ---
 
-## 📂 Repository Structure
+## ✨ Key Technical & Design Highlights
 
-```text
-.
-├── assets/
-│   └── logo_fam.jpeg        # Company logo & image assets
-├── index.html               # Main landing page document
-├── .gitignore               # Ignored system and IDE files
-├── LICENSE                  # MIT License file
-└── README.md                # Project documentation
+- **Ultra-Premium Visual Theme:** Deep Emerald Green (`#042b1e`) paired with Shimmering Gold (`#d4af37`) for high-end corporate aesthetics.
+- **Dynamic Real-Time Ticker:** Integrated scrolling ticker showcasing live stock indices (IHSG, LQ45), top market equities, and global crypto feeds.
+- **Glassmorphism UI Elements:** Modern frosted glass effects, subtle lighting, and card hover animations using pure CSS.
+- **Responsive Navigation:** Mobile-friendly hamburger navigation and smooth internal anchoring (`#about`, `#business-units`, `#structure`, `#contact`).
+- **Interactive Animations:** Lightweight scroll triggers powered by AOS Library.
+
+---
+
+## 📂 Project Structure
+
+pt-fam-timur-indonesia/  
+├── assets/  
+│   └── logo_fam.jpeg        # Corporate branding & logo assets  
+├── index.html               # Main single-page web document  
+├── .gitignore               # System & editor exclusion rules  
+├── LICENSE                  # MIT Open Source License  
+└── README.md                # Comprehensive documentation  
+
+---
+
+## 🚀 Quick Start (Local Development)
+
+### Prerequisites
+No node modules or build processes are required. Any standard modern web browser (Chrome, Edge, Firefox, Safari) can render the project.
+
+### Step 1: Clone the repository
+git clone [https://github.com/USERNAME/REPO_NAME.git](https://github.com/USERNAME/REPO_NAME.git)
+
+### Step 2: Navigate to the directory
+cd REPO_NAME
+
+### Step 3: Run the site
+Double-click index.html or launch using VS Code Live Server extension.
+
+---
+
+## 📞 Corporate Contact Information
+
+- **Address:** Jalan Dahlia Lorong 3, Sengkang, Kel. Pattirosompe, Kec. Tempe, Kab. Wajo, Sulawesi Selatan, 90913, Indonesia
+- **Phone / WhatsApp:** +62 822-9236-7085
+- **Email:** info@famholdingcompany.com
+- **Website:** [https://www.famholdingcompany.com/index.html](https://www.famholdingcompany.com/index.html)
+
+---
+
+## 📄 License
+
+Distributed under the **MIT License**. See `LICENSE` for more information.
+
+<p align="center">
+  © 2025-2026 <b>PT. FAM Timur Indonesia</b>. All Rights Reserved.
+</p>
