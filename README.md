@@ -89,7 +89,7 @@ pt-fam-timur-indonesia/
 No node modules or build processes are required. Any standard modern web browser (Chrome, Edge, Firefox, Safari) can render the project.
 
 ### Step 1: Clone the repository
-git clone [https://github.com/USERNAME/REPO_NAME.git](https://github.com/USERNAME/REPO_NAME.git)
+git clone https://github.com/telkomsel5g4g3g-crypto/fam-holding-company-web.git
 
 ### Step 2: Navigate to the directory
 cd REPO_NAME
