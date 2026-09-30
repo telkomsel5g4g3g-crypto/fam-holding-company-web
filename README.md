@@ -31,6 +31,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/telkomsel5g4g3g-crypto/fam-holding-company-web/blob/main/logo_fam.jpeg?raw=true" alt="PT. FAM Timur Indonesia Logo" width="280" style="border-radius: 12px;" />
+</p>
+
+---
+
 ## 📌 About The Project
 
 This repository hosts the official web front-end source code for **PT. FAM Timur Indonesia**, a premier holding company managing strategic enterprises under the **DA Group**. Guided by the motto *"New Spirit, Shared Hope"*, the company oversees a multi-sector portfolio driving sustainable economic growth across Western, Central, and Eastern Indonesia.
